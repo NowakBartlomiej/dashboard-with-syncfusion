@@ -1,10 +1,9 @@
 # Dashboard with React JS and Syncfusion Libray
 
-![image](https://github.com/NowakBartlomiej/dashboard-with-syncfusion/assets/108576928/a996d142-22a8-426a-a110-65fc2ccb6db3)
+![dashboard-1](https://github.com/NowakBartlomiej/dashboard-with-syncfusion/assets/108576928/e40ada8e-0b94-467a-82fd-ddea8db7c3c7)
 
-![image](https://github.com/NowakBartlomiej/dashboard-with-syncfusion/assets/108576928/295dcb38-c0c5-4631-9f84-b1a79964de39)
+![dashboard-2](https://github.com/NowakBartlomiej/dashboard-with-syncfusion/assets/108576928/be93d3bb-7895-40f0-9c0c-e029a2d691cf)
 
-![image](https://github.com/NowakBartlomiej/dashboard-with-syncfusion/assets/108576928/3e7d2d86-1f85-42db-b75e-a0c7a933ac16)
+![dashboard-3](https://github.com/NowakBartlomiej/dashboard-with-syncfusion/assets/108576928/2018961b-0216-4103-9703-277d0bf76b87)
 
-![image](https://github.com/NowakBartlomiej/dashboard-with-syncfusion/assets/108576928/706a7b5d-6d3a-4404-b078-a55b3b5c7b3e)
-
+![dashboard-4](https://github.com/NowakBartlomiej/dashboard-with-syncfusion/assets/108576928/473bf67f-583d-49e4-a1bd-c6bd81dd4947)
